@@ -25,6 +25,12 @@ Remote.
 - git merge {branch name} Để hợp 2 branch lại
 - git branch -d {name branch} Xóa 1 branch
 - git push (Đẩy local lên remote) 
+- git remote add CT24402 {Repo URL}
+- git push origin {branch name}
+- git clone {repo url}
+- git fect CT24402
+- git checkout -b {branch name} CT24402/{branch name}
+
 
 
 
