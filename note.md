@@ -2,6 +2,7 @@
 
 Reponsitory (Repo)
 Branch
+Conflict (Xung đột)
 
 #Command
 
