@@ -8,4 +8,5 @@ Reponsitory (Repo)
 - git status (Thấy trạng thái dự án, tất cả file trên dự án)
 - git add . (Chuẩn bị lưu lại các file thời điểm hiện tại của dự án)
 - git reset (Reset lại các file chuẩn bị lưu)
-- 
+- git commit -m “Ghi chú” (Muốn chính thức lưu)
+
