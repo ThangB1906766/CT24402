@@ -16,6 +16,7 @@ Branch
 - git checkout {branch name} (Trở lại ban đầu)
 - git branch
 - git checkout -b {branch name} (Để tạo 1 branch mới trong dự án)
+- 
 
 
 
