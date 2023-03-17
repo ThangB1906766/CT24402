@@ -3,6 +3,10 @@
 Reponsitory (Repo)
 Branch
 Conflict (Xung đột)
+    - Giải quyết xung đột cần xóa nội dung không lưu sau đó dùng 
+    - git commit
+Local
+Remote
 
 #Command
 
@@ -20,6 +24,7 @@ Conflict (Xung đột)
 - git checkout  Quay lại branch master
 - git merge {branch name} Để hợp 2 branch lại
 - git branch -d {name branch} Xóa 1 branch
+- git push (Đẩy local lên remote)
 
 
 
