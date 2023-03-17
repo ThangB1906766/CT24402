@@ -16,6 +16,7 @@ Branch
 - git checkout {branch name} (Trở lại ban đầu)
 - git branch
 - git checkout -b {branch name} (Để tạo 1 branch mới trong dự án)
+- git checkout  Quay lại branch master
 - git merge {branch name} Để hợp 2 branch lại
 - git branch -d {name branch} Xóa 1 branch
 
