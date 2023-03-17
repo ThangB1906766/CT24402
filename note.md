@@ -6,7 +6,7 @@ Conflict (Xung đột)
     - Giải quyết xung đột cần xóa nội dung không lưu sau đó dùng 
     - git commit
 Local
-Remote
+Remote.
 
 #Command
 
