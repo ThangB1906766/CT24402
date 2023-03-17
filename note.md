@@ -24,7 +24,7 @@ Remote
 - git checkout  Quay lại branch master
 - git merge {branch name} Để hợp 2 branch lại
 - git branch -d {name branch} Xóa 1 branch
-- git push (Đẩy local lên remote)
+- git push (Đẩy local lên remote) 
 
 
 
